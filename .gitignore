@@ -1,0 +1,4 @@
+*.key
+/dashboard/
+node_modules/
+*.tmp
